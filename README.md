@@ -17,7 +17,7 @@ We built three quadrotor UAVs with different weights, sizes, and computing capab
 | **Frequency**              | 4.2GHz           | 1.5GHz            | 1.0GHz   |
 | **Mermory**                | 8GB              | 4GB               | 512MB    |
 | **Power**                  | 16.0V 6A         | 5V 2A             | 5V 2A    |
-| **Battery**                | 6S 30C 5300mAh   | 4S 30C 2200mAh    | 3s 85C 850mAh|
+| **Battery**                | 6S 30C 5300mAh   | 4S 30C 2200mAh    | 3S 85C 850mAh|
 | **GPRS**                   | GPS Wi-Fi        | GPS Wi-Fi         | Wi-Fi    |
 | **Weight**                 | 3KG              | 1.7KG             | 0.6KG    |
 
@@ -32,10 +32,7 @@ This dataset contains 12 sets of real-world flight data. We respectively utilize
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src=./Figure/light.jpg>
     <br>
-    <div style="color:orange;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig. 1 Light model.</div>
+    <div>Fig. 1 Light model.</div>
 </center>
 
 <center>
@@ -43,10 +40,7 @@ This dataset contains 12 sets of real-world flight data. We respectively utilize
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src=./Figure/medium.jpg>
     <br>
-    <div style="color:orange;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig. 2 Medium model.</div>
+    <div>Fig. 2 Medium model.</div>
 </center>
 
 <center>
@@ -54,10 +48,7 @@ This dataset contains 12 sets of real-world flight data. We respectively utilize
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src=./Figure/heavy.jpg>
     <br>
-    <div style="color:orange;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig. 3 Heavy model.</div>
+    <div>Fig. 3 Heavy model.</div>
 </center>
 
 <center>
@@ -65,10 +56,7 @@ This dataset contains 12 sets of real-world flight data. We respectively utilize
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src=./Figure/exp_location.png>
     <br>
-    <div style="color:orange;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig. 4 Experimental location.</div>
+    <div>Fig. 4 Experimental location.</div>
 </center>
 
 
