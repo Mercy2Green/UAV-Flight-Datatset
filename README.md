@@ -38,18 +38,12 @@ This dataset contains 12 sets of real-world flight data. We respectively utilize
 </center>
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src=./Figure/heavy.jpg>
-    <br>
+    <img src=./Figure/heavy.jpg>
     <div>Fig. 3 Heavy model.</div>
 </center>
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src=./Figure/exp_location.png>
-    <br>
+    <img src=./Figure/exp_location.png>
     <div>Fig. 4 Experimental location.</div>
 </center>
 
