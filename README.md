@@ -12,7 +12,7 @@ We built three quadrotor UAVs with different weights, sizes, and computing capab
 | **Airframe**               | ZD550            | F450              | GEP-CL30 |
 | **FC**                     | PixHawk 2.4.8    | PixHawk 2.4.8     | PixHawk 2.4.8|
 | **OC**                     | Intel NUC        | Raspberry pi 4B+  | Raspberry pi Zero |
-| **OS**                     | Ubuntu  |
+| **OS**                     | Ubuntu 22.04     | Raspbian 64 bit   | Raspbian 32 bit |
 | **CPU**                    | i5-1135G7        | BCM2711B0         | BCM2835  |
 | **Frequency**              | 4.2GHz           | 1.5GHz            | 1.0GHz   |
 | **Mermory**                | 8GB              | 4GB               | 512MB    |
