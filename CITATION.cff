@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Runze"
+  given-names: "Yu"
+  orcid: "https://orcid.org/0000-0003-1767-571X"
+- family-names: "Jiakui"
+  given-names: "Shen"
+  orcid: "https://orcid.org/0000-0003-1767-571X"
+- family-names: "Teng"
+  given-names: "Li"
+  orcid: "https://orcid.org/0000-0001-5147-8336"
+title: "UAV-Flight-Datatset"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-09-04
+url: "https://github.com/Mercy2Green/UAV-Flight-Datatset"
